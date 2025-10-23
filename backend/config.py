@@ -1,0 +1,6 @@
+import os
+
+ELASTIC_URL = os.getenv("ELASTIC_URL", "https://YOUR_ELASTIC_URL")
+ELASTIC_API_KEY = os.getenv("ELASTIC_API_KEY", "YOUR_ELASTIC_API_KEY")
+GCP_PROJECT = os.getenv("GCP_PROJECT", "YOUR_GCP_PROJECT")
+GCP_LOCATION = os.getenv("GCP_LOCATION", "us-central1")

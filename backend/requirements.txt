@@ -1,0 +1,1 @@
+fastapi==0.111.0\nuvicorn==0.30.0\nelasticsearch==8.15.0\ngoogle-cloud-aiplatform==1.48.0\n
